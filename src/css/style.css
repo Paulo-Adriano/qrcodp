@@ -44,10 +44,15 @@ body {
     height: 150px;
 
     margin: auto;
+    padding: 10px;
 
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+
+    border-radius: 5px;
+    border: 2px solid rgb(61, 26, 125);
+
 }
 
 .container .informacoes .ico .fa-shopping-cart {
