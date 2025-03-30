@@ -45,3 +45,12 @@ body {
     justify-content: space-between;
     align-items: baseline;
 }
+
+.container .informacoes .ico .fa-shopping-cart {
+    font-size: 20px;
+    color: rgba(169, 12, 201, 0.822);
+}
+
+.container .informacoes .ico .fa-shopping-cart:active {
+    color: rgb(0, 255, 0);
+}
