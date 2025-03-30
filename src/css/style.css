@@ -13,11 +13,12 @@ body {
 }
 
 .main .container {
-    background-color: white;
+    background-color: rgba(243, 242, 245, 0.788);
     width: 400px;
     height: 500px;
 
     border-radius: 10px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.555);
 }
 
 .container .img {
@@ -25,6 +26,7 @@ body {
     height: 300px;
 
     margin: auto;
+     
 }
 
 .container .img img {
@@ -32,6 +34,8 @@ body {
     border-radius: 10px;
 
     margin-top: 20px;
+
+    border: 2px solid rgb(61, 26, 125);
 
 }
 
